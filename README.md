@@ -1,1 +1,4 @@
-# taraman12.github.io
+# About
+
+## Education
+- University of Wuerzburg, Germany
