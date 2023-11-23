@@ -41,7 +41,15 @@ _Internship, Risk management and controlling_ | Luxembourg (_Jan 2019 - Mar 2019
 **Spotify Mining** | [GitHub](https://github.com/Taraman12/Spotify-Mining)
 - Python project which analyses music tracks from Spotify regarding their popularity based on different features. It uses scikit-learn and XGBoost to test the performance ML-Algorithms
 
-## Hobbies
+## Relevant Coursework
+- Project Seminar: A group project to create a micro-service based tool to optimize routing problems. I was responsible for API (Flask) and frontend (Vue.js) development
+- Seminar Papers: Data Mining, Reinforcement Learning
+
+## Additional Courses
+- Rhetoric Seminar (2017), Communication seminar (2015)
+
+## Hobbies & Interests
 - Badminton
 - Sailing
 - Hiking
+- PC Hardware
